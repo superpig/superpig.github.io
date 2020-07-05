@@ -99,5 +99,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:superpig/superpig.github.io.git
+  repo: https://github.com/superpig/superpig.github.io.git
   branch: master
+  name: superpig
+  email: 940578704@qq.com
