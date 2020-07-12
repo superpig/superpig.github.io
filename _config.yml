@@ -7,7 +7,7 @@ title: Hilary的博客
 subtitle: ''
 description: ''
 keywords: JavaScript
-author: John Doe
+author: superpig
 language: zh-CN
 timezone: ''
 
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next-reloaded
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
